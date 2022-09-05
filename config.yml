@@ -2,7 +2,7 @@ plugins:
   - tableau_hll
 
 settings:
-  log-level: debug
+  log-level: error
   intercept-log: logs/intercept.log
   general-log: logs/general.log
 
